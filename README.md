@@ -2,7 +2,7 @@
 
 An interactive, production-grade data science application designed to monitor customer retention, analyze demographic risk profiles, and track capital attrition across Eurozone retail banking markets. This platform is explicitly engineered to align with Basel III liquidity risk guidelines and macroeconomic supervisory reporting metrics.
 
-Live Link: [Insert your Streamlit deployment URL here]
+Live Link: https://european-bank-customer-segmentation-fksfkk4txzdgcizzrtc5tb.streamlit.app
 
 ---
 
