@@ -50,5 +50,5 @@ To run this platform on your local machine, ensure you have Python 3.8+ installe
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
+   git clone https://github.com/Fx2Rai/European-bank-customer-segmentation.git
+   cd European-bank-customer-segmentation
